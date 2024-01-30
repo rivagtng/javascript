@@ -1,0 +1,1 @@
+var lemari = new Array("dompet")
